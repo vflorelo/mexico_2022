@@ -1,0 +1,21 @@
+format: jb-book
+root: dafne
+chapters:
+- file: el_inicio
+- file: el_regreso
+- file: coming_home
+- file: dancing_club
+- file: remigio
+- file: alejandra
+- file: no_importa_cuando_leas_esto
+- file: maestra_dianolasa
+- file: thela_hun_ginjeet
+- file: mama_ahide
+- file: help_the_aged
+- file: cosecha_2006
+- file: alison
+- file: comisario_flores
+- file: ciencia_para_todas
+- file: el_camino_de_las_ruinas
+- file: nonantzin
+- file: but_home_is_nowhere
