@@ -1,3 +1,5 @@
+# Dancing club
+
 Victor Flores nació en Hidalgo el 28 de Julio de 1956 en una familia pobre en donde todxs lxs integrantes de la familia hacían de todo. Siempre fue la oveja negra de la familia, pero no por ello dejó de ser una buena persona.
 
 En 1962 su familia dejó el estado de Hidalgo para asentarse en Ecatepec en el Estado de México. Don Herón, el jefe de familia, siempre trabajador y con mucho carisma pese a su carácter violento, fue una figura importante en el barrio de Santa Clara. Los tíos y el abuelo construyeron muchas cosas: escuelas, casas, carreteras, al grado que Santa Clara era de ellos, como ellos eran de Santa Clara a pesar de haber venido de otro estado.
