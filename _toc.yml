@@ -3,7 +3,6 @@ root: dafne
 chapters:
 - file: el_inicio
 - file: el_regreso
-- file: coming_home
 - file: dancing_club
 - file: remigio
 - file: alejandra
@@ -11,7 +10,6 @@ chapters:
 - file: maestra_dianolasa
 - file: thela_hun_ginjeet
 - file: mama_ahide
-- file: help_the_aged
 - file: cosecha_2006
 - file: alison
 - file: comisario_flores

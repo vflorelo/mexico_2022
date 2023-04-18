@@ -36,7 +36,27 @@ Actualmente entiendo que es mucho más complejo de lo que aparenta a primera vis
 
 Alguna vez, yendo a la clínica 67 del IMSS, mi papá me contaba - mientras señalaba un concurrido puesto de comida -  que ahí era el punto de reunión de los narcotraficantes locales. Era una sensación extraña pensar en la familiaridad con la que se sabía que ahí se reunían los dealers, incluso a sabiendas de que la policia pasaba por ahí, y más increible aún, que comieran en el mismo sitio, al mismo tiempo. Cuando me vino la idea de documentar mi visita a México pensé en incluir fotos en cada capítulo para cerrar cada historia, pero para esta historia valdría más incluir la canción "Thela Hun Ginjeet" de King Crimson incluida en el album "Discipline" de 1981.
 
-> It's a dangerous place
+En la canción, Adrian Belew describe su experiencia cuando estaba tratando de filmar un video acerca de la vida criminal ("And it's just about New York City, it's about crime in the streets"), al hacer esto, un par de rastafaris en London se le acercan creyendo que se trataba de un policia:
+
+> So, suddenly, these two guys appear in front of me
+> 
+> They stopped
+> 
+> Real aggressive
+> 
+> Stared at me, you know
+> 
+> "W-what's that? What's that on that tape?"
+> 
+> "Yeah, what do you got there?"
+
+Después de una conversación que parecía interminable, los rastafaris lo dejan ir, Adrian, asustado está temblando, continua describiendo su experiencia que termina de forma irónica:
+
+> And I thought, "This is a dangerous place" once again, you know
+> 
+> Who should appear but two policemen
+
+Esa canción es sin duda una de mis favoritas, y debo atribuirle buena parte de las razones por las que decidí comenzar a escribir esta colección de ensayos
 
 Volviendo a todo el asunto de la desastroza tarde en la que llegué diez minutos tarde a Santa Clara, una cosa era tener una idea masomenos clara acerca de como funciona el crimen en México, y otra muy distinta era presenciar un asesinato a metros de distancia. Un asesinato que era causa y consecuencia del ambiente que imperaba y seguía imperando en la colonia y en el municipio.
 
